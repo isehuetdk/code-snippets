@@ -11,7 +11,7 @@ Example:
 ```
 Get-WindowsImaeg -ImagePath '.\Windows 10.wim'
 ```
-You will need ImageName parameter of the image in scope for the next step (example: myImage).
+You will need **ImageName** parameter of the image in scope for the next step *(example: myImage)*.
 
 2. Convert the image by running the below code to have it compatible with a Hyper-V Gen1 VM:
 ```
