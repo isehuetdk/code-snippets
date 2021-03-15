@@ -9,7 +9,7 @@ Supports as an example Windows 10 WIM to VHD(X).
 Example: 
 1. Get Windows Image details from source to convert:
 ```
-Get-WindowsImaeg -ImagePath '.\Windows 10.wim'
+Get-WindowsImage -ImagePath '.\Windows 10.wim'
 ```
 You will need **ImageName** parameter of the image in scope for the next step *(example: myImage)*.
 
